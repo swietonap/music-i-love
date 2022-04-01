@@ -1,0 +1,47 @@
+Body { background-image: url(https://images.unsplash.com/photo-1533710359718-c822c4e88549?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+background-size: contain;
+}
+
+h1 { 
+	color: #D9D9D9   ;
+	background-color: black;
+	text-align: center;
+	border: 10px groove; #515151  ;
+	cursor: pointer;
+	font: normal 30px/1.4 papyrus;
+
+
+}
+
+a { 
+	color: #D9D9D9   ;
+	background-color: black;
+	text-align: left;
+	border: 5px solid; #515151  ;
+}
+
+h3 { 
+	color: #D9D9D9   ;
+	background-color: black;
+	text-align: center;
+	border: 10px solid; #515151  ;
+	cursor: pointer;
+	font: normal 30px/1.4 papyrus;
+
+}
+
+p {color: #D9D9D9   ;
+	background-color: black;
+	text-align: left;
+	border: 5px solid; #515151;
+	font: normal 20px/1.4 georgia;
+
+
+}
+
+ul {color: #D9D9D9   ;
+	background-color: black;
+	text-align: left;
+	font: normal 20px/1.4 georgia;
+
+}
